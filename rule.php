@@ -9,8 +9,11 @@
 	margin:0px;
 	padding:0px;
 }
+img{
+	width:100%;
+}
 </style>
 <body>
-<img src="all.jpg" width="100">
+<a href="http://www.isuzucreativebrainschallenge.com/site/detail"><img src="all.jpg"  ></a>
 </body>
 </html>
