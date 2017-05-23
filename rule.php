@@ -4,8 +4,13 @@
 <meta charset="UTF-8">
 <title>ICBC</title>
 </head>
-
+<style>
+*{
+	margin:0px;
+	padding:0px;
+}
+</style>
 <body>
-<iframe src="http://www.isuzucreativebrainschallenge.com/site/detail" width="100%"></iframe>
+<img src="all.jpg">
 </body>
 </html>
