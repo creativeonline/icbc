@@ -6,7 +6,6 @@
 </head>
 
 <body>
-test
-
+<iframe src="http://www.isuzucreativebrainschallenge.com/site/detail" width="100%"></iframe>
 </body>
 </html>
