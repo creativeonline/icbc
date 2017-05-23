@@ -11,6 +11,6 @@
 }
 </style>
 <body>
-<img src="all.jpg">
+<img src="all.jpg" width="100">
 </body>
 </html>
